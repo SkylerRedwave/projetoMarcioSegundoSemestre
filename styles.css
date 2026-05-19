@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(255, 235, 248);
+}
+
+#textos {
+  border-radius: 25px;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.274);
+  background-color: rgb(252, 194, 231);
+  color: beige;
+  text-align: center;
+  border: 2px solid beige;
+  margin: 20px;
+  padding: 20px;
+}
+
+#filter {
+  border-radius: 25px;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.274);
+  background-color: rgb(252, 194, 231);
+  color: beige;
+  text-align: center;
+  border: 2px solid beige;
+  margin: 20px;
+  padding: 20px;
+}
+
+.table {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  text-align: center;
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.274);
+  background-color: rgb(255, 173, 225);
+  color: beige;
+  border: 2px solid beige;
+  margin: 20px;
+  padding: 5px;
+}
+
+.table div {
+  background-color: #f1f1f1;
+  border: 1px solid beige;;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
